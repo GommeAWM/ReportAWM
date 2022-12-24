@@ -1,6 +1,8 @@
 # ReportAWM
 Plugin Report | Minecraft Bedrock Edition | API 1.0.14 | Nukkit | SupportAWM
 
+FOR SUPPORT/SUGGESTIONS/CUSTOM PLUGINS USE OUR DISCORD CHANNEL: https://discord.gg/mAZ9YMV3
+
 ***Features:***<br />
 :star: Simple Report;<br />
 :star: Send information about report to VKONTAKTE or DISCORD;<br />
