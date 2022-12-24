@@ -40,7 +40,7 @@ FOR SUPPORT/SUGGESTIONS/CUSTOM PLUGINS USE OUR DISCORD CHANNEL: https://discord.
 
 ---
 
-> * Link to cloudburstmc article -> [CloudburstMC](wait) | Link to our discord group -> [SupportAWM](https://discord.gg/mAZ9YMV3)
+> * Link to cloudburstmc article -> [CloudburstMC](https://www.cloudburstmc.org/resources/reportawm.873/) | Link to our discord group -> [SupportAWM](https://discord.gg/mAZ9YMV3)
 
 ---
 
