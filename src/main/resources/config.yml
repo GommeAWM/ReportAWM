@@ -1,0 +1,46 @@
+# you can choose 'vkontakte' or 'discord'
+
+# INFORMATION
+
+# %t% == target
+# %p% == pitcher
+# %v% == violator
+# %r% == reason
+
+# --------------
+# CONFIGURE DATA
+# --------------
+
+Send: "discord"
+
+vkontakte:
+  token: ""
+
+discord:
+  token: ""
+  textChannelById: ""
+
+# --------------
+# CONFIGURE MESSAGE
+# --------------
+
+Report:
+  usage: '§cUsage: §b/report <player>'
+  description: '§areport a player'
+
+  playerNotFound: '§cPlаyеr§b %t% §cwas not found!'
+  successSendReport: '§aYou hаve successfully submitted a report'
+
+  reportMessage: "(🚫) (-------Report-------)\n🔫 Violator: %v%\n🛡 Pitcher: %p%\n📋 Reason: %r%"
+
+  button1Text: 'Cheаts'
+  button2Text: 'trеacherous, skin, name'
+  button3Text: 'Chаt'
+
+Form:
+  title: '§6Report Player§b %t%'
+  content: "§2Choose the cаtegory in which the player falls!\n\n§4!! §cIf you have evidence(proof) throw it into a discord group\n\n"
+
+  button1: '§b(§cCheаts§b)'
+  button2: '§b(§ctrеacherous, skin, name§b)'
+  button3: '§b(§cChаt§b)'
